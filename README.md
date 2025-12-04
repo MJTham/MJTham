@@ -47,7 +47,7 @@ I recently engineered the complete migration of a legacy monolithic WordPress si
 ### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/MJTham">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MJTham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MJ's GitHub Stats" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJTham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" />
   </a>
