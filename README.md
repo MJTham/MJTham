@@ -32,27 +32,28 @@ I am a Software Engineer based in Malaysia, passionate about modernizing legacy 
 
 ### 🚀 Featured Project: Legacy Migration to Serverless
 
-**Project:** Corporate Website Modernization (UBK-QS)
+### 🔬 Research & Academic Work
 
-I recently engineered the complete migration of a legacy monolithic WordPress site to a modern, serverless architecture.
-
-* **Challenge:** High legacy hosting costs, slow performance, and manual deployment processes.
-* **Solution:** Rebuilt the frontend using **React + Vite + Tailwind**. Deployed to **Firebase Hosting** via a custom **GitHub Actions** CI/CD pipeline. Implemented **Cloudflare** for DNS management and CDN caching.
-* **Impact:** * ✅ **90%+ reduction** in annual infrastructure costs.
-    * ✅ Instant global loading speeds via edge caching.
-    * ✅ Zero-touch automated deployments on Git push.
+**Master's Thesis: Open World Object Detection**
+* **Focus:** Developing a continual learning pipeline for real-time object detection that adapts to novel classes without catastrophic forgetting.
+* **Tech Stack:** Python, PyTorch, YOLOv8, Semantic Databases.
+* **Key Achievement:** Integrated a semantic database to allow the model to recognize "unknown" objects based on contextual clues, improving detection rates in dynamic environments.
+* **Status:** 🔒 *Private Research Repository (Available for demo upon request)*
 
 <br/>
 
-### 📊 GitHub Activity
+### ⚡ Currently Focusing On
 
-<p align="center">
-  <a href="https://github.com/MJTham">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MJTham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="MJ's GitHub Stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJTham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" />
-  </a>
-</p>
+* **Cloud Resiliency:** Studying Chaos Engineering and high-availability architecture on Azure/AWS.
+* **System Design:** Designing scalable serverless patterns for cost-optimization.
+* **AI Integration:** Exploring edge-deployment of YOLO models for mobile applications.
 
+<br/>
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/mingjuntham/)
+* **Email:** [Denistmj@gmail.com](mailto:Denistmj@gmail.com)
 <br/>
 
 <p align="center">
