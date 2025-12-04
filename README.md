@@ -52,7 +52,7 @@ I am a Software Engineer based in Malaysia, passionate about modernizing legacy 
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/mingjuntham/)
+* **LinkedIn:** [linkedin.com/in/mingjuntham](https://www.linkedin.com/in/mingjuntham/)
 * **Email:** [Denistmj@gmail.com](mailto:Denistmj@gmail.com)
 <br/>
 
